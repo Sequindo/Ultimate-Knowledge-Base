@@ -16,7 +16,7 @@ Art. 78 u. 2
 ### Pojazdy a prawa jazdy
 
 #### A1
-- Motocykl 3-kołowy o mocy $\leqslant$ 15 kW
+- Motocykl 3-kołowy o mocy \leqslant 15 kW
 - Czterokołowiec lekki... (pojazdy z kategorii AM)
 - Motocykl o pojemności skokowej silnika $\leqslant$ 125 $cm^3$, mocy do 11 kW i stosunku moc/masa własna 0.1 kW
 - **16 lat**
