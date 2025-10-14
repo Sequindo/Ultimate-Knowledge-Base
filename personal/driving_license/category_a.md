@@ -16,23 +16,22 @@ Art. 78 u. 2
 ### Pojazdy a prawa jazdy
 
 #### A1
-- Motocykl 3-kołowy o mocy $\leqslant$ 15 kW
+- Motocykl 3-kołowy o mocy <= 15 kW
 - Czterokołowiec lekki... (pojazdy z kategorii AM)
-- Motocykl o pojemności skokowej silnika $\leqslant$ 125 $cm^3$, mocy do 11 kW i stosunku moc/masa własna 0.1 kW
+- Motocykl o pojemności skokowej silnika <= 125 cm3, mocy do 11 kW i stosunku moc/masa własna 0.1 kW
 - **16 lat**
 
 #### A2
-- Motocykl o mocy $\leqslant$ 35 kW i stosunku moc/masa własna $\leqslant$ 0.2 kW
+- Motocykl o mocy <= 35 kW i stosunku moc/masa własna <= 0.2 kW
 - Motocykl taki nie może powstać z pojazdu, jeżeli moc została zmniejszona 2-krotnie i więcej
-- Motocykl 3-kołowy o mocy $\leqslant$ 15 kW
+- Motocykl 3-kołowy o mocy <= 15 kW
 - Czterokołowiec lekki... (pojazdy z kategorii AM)
 - **18 lat**
 
 #### A
 - każdy motocykl
 - Czterokołowiec lekki... (pojazdy z kategorii AM)
-- **20 lat** - 
-od 2 lat prawo jazdy A2
+- **20 lat** - od 2 lat prawo jazdy A2
 - **24 lata** - w innym wypadku
 
 #### Pojazd zarejestrowany za granicą
@@ -50,8 +49,8 @@ od 2 lat prawo jazdy A2
 - na okres 6 miesięcy - cofnięcie uprawnień do kierowania pojazdem
 
 #### Pokwitowanie o zatrzymaniu prawa jazdy
-- Za przekroczenie prędkości $\geqslant$ 50 km/h na obszarze zabudowanym - uprawnienie do kierowania pojazdem przez 24 godziny od zatrzymania prawa jazdy
+- Za przekroczenie prędkości >= 50 km/h na obszarze zabudowanym - uprawnienie do kierowania pojazdem przez 24 godziny od zatrzymania prawa jazdy
 
 #### Rygor natychmiastowej wykonalności zatrzymania prawa jazdy
-- Przekroczenie prędkości $\geqslant$ 50 km/h na obszarze zabudowanym
+- Przekroczenie prędkości >= 50 km/h na obszarze zabudowanym
 - przewozi osoby > liczba miejsc określoną w dowodzie rejestracyjnym
