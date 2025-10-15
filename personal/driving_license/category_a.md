@@ -54,3 +54,47 @@ Art. 78 u. 2
 #### Rygor natychmiastowej wykonalności zatrzymania prawa jazdy
 - Przekroczenie prędkości >= 50 km/h na obszarze zabudowanym
 - przewozi osoby > liczba miejsc określoną w dowodzie rejestracyjnym
+
+### Technikalia
+
+#### Najmniejsza głębokość rzeźby bieżnika opony motocykla niewyposażonej w czujnik zużycia
+1.6 mm
+
+#### Światła wózka bocznego motocykla:
+- pozycyjne (przednie, tylnie) - zsynchronizowane ze światłami pozycyjnymi motocykla
+- odblaskowe tylnie
+- kierunkowskazów
+
+### Przewożenie bagażu i osób
+#### Zorganizowana kolumna pojazdów
+- Samochody osobowe, motorowery, motocykle - 10
+- Minimalna odległość pomiędzy jadącymi kolumnami - 500 m (pojazdy samochodowe, to jest: silnikowe, którego konstrukcja umożliwia jazdę z prędkością przekraczającą 25 km/h, nie obejmuje ciągnika rolniczego.)
+
+#### Przyczepa motocyklowa
+- RMC nie może przekraczać masy własnej motocykla, jednak nie może być >= **100** kg.
+- Maksymalna długość zespołu pojazdów składająca się z motocykla i przyczepy - **4** m.
+
+## Ograniczenia prędkości
+
+| Obszar                                                                   | Prędkość dopuszczalna, km/h |
+|--------------------------------------------------------------------------|-----------------------------|
+| Strefa zamieszkania                                                      | 20                          |
+| Teren zabudowany                                                         | 50                          |
+| Autostrada                                                               | 140                         |
+| Droga ekspresowa dwujezdniowa                                            | 120                         |
+| Droga ekspresowa jednojezdniowa                                          | 100                         |
+| Droga dwujezdniowa o co najmniej dwóch pasach ruchu dla każdego kierunku | 100                         |
+| Obszar niezabudowany, pozostałe drogi                                    | 90                          |
+
+#### Przewożenie dziecka do lat 7 motocyklem
+Ograniczenie prędkości do 40 km/h
+
+## Zakazy oraz inne
+#### Zatrzymywanie pojazdu, a przystanek komunikacji
+Odległość < 15 m od słupka/tablicy oznaczającej przystanek, na przystanku z zatoką - na całej jej długości
+
+#### Pojazd szynowy
+Może być wyprzedzany tylko z prawej strony, chyba że uniemożliwia to położenie torów lub ruch odbywa się po drodze jednokierunkowej.
+
+#### Wyprzedzanie z prawej strony
+Dozwolone m.in. na odcinku drogi z wyznaczonymi pasami ruchu na jezdni jednokierunkowej.
