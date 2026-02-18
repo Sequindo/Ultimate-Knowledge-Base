@@ -15,9 +15,19 @@ Pliki **RAW** są przeznaczone do obróbki cyfrowej (pełna kontrola nad balanse
 
 ## Obiektywy
 
-Generalnie:
 - Zoom (zmiennoogniskowe)
 - Stałoogniskowe
 
 Krótka ogniskowa (np. 18 mm) = szeroki kąt widzenia.<br/>
 Długa ogniskowa (np. 200 mm) = węższy kąt widzenia.
+
+Ogniskowa (z reguły w cm) - odległość od punktu skupienia światła w obiektywie do czujnika aparatu.
+- Rybie oko - 7-16 mm, bardzo szeroki kąt, owalne/okrągłe obrazy, zginanie linii horyzontu, panoramy miejskie itp.
+- Szerokokątny - 10 do 42 mm, szerokie zdjęcia krajobrazu, duże zdjęcia grupowe itp.
+- Standardowy - 50 mm, 85 mm, 100 mm. Portrety, fotografia na żywo, zdjęcia martwej natury itp.
+- Teleobiektywy - 100-800 mm, wąskie pole widzenia, płytka głębia obrazu. Może uchwycić obiekty oddalone o setki metrów.
+
+**Długość ogniskowej wpływa na bokeh przez dwa mechanizmy: głębię ostrości i kompresję.**
+
+Dłuższe ogniskowe mają zazwyczaj płytszą głębię ostrości w porównaniu do krótszej ogniskowej (np. obiektyw szerokokątny).
+Dłuższe ogniskowe *kompresują perspektywę* (tło wydaje się większe i bliższe przedmiotowi). Gdy tło jest bliższe w stosunku do podmiotu, uzyskamy większe i wyraźniejsze rozmycie.
