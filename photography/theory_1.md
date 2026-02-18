@@ -31,3 +31,15 @@ Ogniskowa (z reguły w cm) - odległość od punktu skupienia światła w obiekt
 
 Dłuższe ogniskowe mają zazwyczaj płytszą głębię ostrości w porównaniu do krótszej ogniskowej (np. obiektyw szerokokątny).
 Dłuższe ogniskowe *kompresują perspektywę* (tło wydaje się większe i bliższe przedmiotowi). Gdy tło jest bliższe w stosunku do podmiotu, uzyskamy większe i wyraźniejsze rozmycie.
+
+### Przysłona (aperture)
+
+f/1.4, f/2.0, f/2.8, f/4.0, f/5.6 ... f/11, f/16.
+Większa liczba = mniej światła, bardziej zasłonięta przesłona.
+
+Przy większych wartościach przesłony otrzymujemy większą głębię ostrości. Przysłona reguluje ilość światła wpadającą do aparatu.
+
+### Efekt bokeh
+
+Rozmycie zależy od długości ogniskowej, jasności obiektywu i wielkości matrycy (większa matryca = większy bokeh). Im dłuższa ogniskowa i jaśniejszy obiektyw, tym większe rozmycie.
+
